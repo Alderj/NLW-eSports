@@ -1,3 +1,5 @@
 novo arquivo versao 01
 
 arquivo editado pelo github
+
+arquivo atualizado pelo git bash versao 02 
