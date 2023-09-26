@@ -15,4 +15,4 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 ## Contato
 
-alder.junio@gmail.com
+alderjuniosantana@gmail.com
